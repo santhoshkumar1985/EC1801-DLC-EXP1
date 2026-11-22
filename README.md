@@ -106,4 +106,5 @@ The design was compiled and simulated using Synopsys VCS, and the functionality 
 
 Result
 Thus, the Boolean function was minimized, implemented using Verilog HDL, successfully simulated using Synopsys VCS, and verified using Synopsys DVE.
+<img width="1920" height="1051" alt="DVE - TopLevel 2 -  Wave 1   _home_learner1_fun vcd vpd@vlsieda saveetha in 20-11-2026 12_36_11" src="https://github.com/user-attachments/assets/f1aca593-44d0-4b1f-b44d-a18fc78454df" />
 
